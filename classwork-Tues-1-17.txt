@@ -1,1 +1,8 @@
 Today's Classwork
+.
+..
+classwork-Tues-1-17.txt
+contents_of_class-assignments.txt
+.git
+readme.txt
+thurs-1-12-2017
