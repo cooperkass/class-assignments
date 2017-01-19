@@ -1,1 +1,59 @@
 Today's Classwork
+
+There are 9515 lines in Marra2014_data.fasta
+History of line counting and adding and removing toremove.txt
+  231  ls
+  232  cd Desktop
+  233  cd CSB
+  234  cd eeb-177
+  235  cd CSB
+  236  cd unix
+  237  ls
+  238  cd data
+  239  ls
+  240  ls -l
+  241  open Marra2014_data.fasta 
+  242  gedit Marra2014_data.fasta 
+  243  cd ..
+  244  cd class-assignments
+  245  gedit classwork-Thursday-1-19.txt 
+  246  cd ..
+  247  cd CSB
+  248  cd unix/sandbox
+  249  touch toremove.txt
+  250  ls
+  251  rm toremove.txt
+  252  ls
+  253  man touch
+  254  cd ..
+  255  cd data
+  256  touch toremove.txt /../sandbox
+  257  touch toremove.txt ../sandbox
+  258  cd ../sandbox
+  259  ls
+  260  cd ..
+  261  cd data
+  262  touch toremove.txt ../sandbox/
+  263  ls ../sandbox/
+  264  ls -a
+  265  ls
+  266  rm toremove.txt
+  267  ls
+  268  touch remove.txt ~/Desktop/eeb-177/CSB/unix/sandbox
+  269  ls ~/Desktop/eebb-177/CSB/unix/sandbox
+  270  ls ~/Desktop/eeb-177/CSB/unix/sandbox
+  271  ls -a ~/Desktop/eeb-177/CSB/unix/sandbox
+  272  touch ~/Desktop/eeb-177/CSB/unix/sandbox/toremove.txt
+  273  cd ..
+  274  cd sandbox
+  275  ls
+  276  cd ..
+  277  cd data
+  278  ls ../sandbox
+  279  rm ../sandbox/toremove.txt
+  280  ls ../sandbox
+  281  history
+  282  history 50
+  283  history 51
+  284  history 55
+  285  history 55 >> ~/Desktop/eeb-177/class-assignments/classwork-Thursday-1-19.txt 
