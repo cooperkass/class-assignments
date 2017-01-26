@@ -1,0 +1,76 @@
+Today's Class
+   
+  285  ls
+  286  touch permissions.txt
+  287  ls
+  288  gedit classwork-Thursday-1-26.txt
+  289  chmod u=rwx permissions.txt 
+  290  ls -l
+  291  chmod u-x permissions.txt 
+  292  ls -l
+  293  chmod u+x permissions.txt 
+  294  ls -l
+  295  gedit
+  296  ls -l
+  297  ls /bash/bin
+  298  ls/bin/bash
+  299  ls /user/bin
+  300  ls /user/bin/
+  301  ls /usr/bin
+  302  $PATH
+  303  cd ~
+  304  pwd
+  305  mkdir scripts
+  306  ls
+  307  cd scripts
+  308  ls
+  309  mv ~/Desktop/eeb-177/class-assignments/dir.sh .
+  310  ls
+  311  cd
+  312  gedit .bash_profile
+  313  ls
+  314  $PATH
+  315  less .bash_profile
+  316  cd scripts
+  317  ls-l
+  318  ls -l
+  319  chmod u+x dir.sh
+  320  ls -l
+  321  dir.sh
+  322  gedit dir.sh
+  323  cd Desktop
+  324  cd ../Desktop
+  325  ./dir.sh
+  326  dir.sh
+  327  less .bash_profile
+  328  cd ..
+  329  less .bash_profile
+  330  ls
+  331  ls -a
+  332  gedit .profile
+  333  sudo reboot
+  334  $PATH
+  335  cd Desktop
+  336  dir.sh
+  337  date
+  338  history
+  339  ls -l
+  340  cd ..
+  341  ls -l
+  342  cd ~/scripts
+  343  gedit inclass_script.sh
+  344  chmod u+x inclass_script.sh 
+  345  ls -l
+  346  cd ~/Desktop/eeb-177/lab-work/
+  347  ls
+  348  git status
+  349  date
+  350  inclass_script.sh 
+  351  cd
+  352  cd Desktop/eeb-177/class-assignments/
+  353  ipython
+  354  history 50 >> classwork-Thursday-1-26.txt 
+  355  gedit classwork-Thursday-1-26.txt 
+  356  history 60
+  357  history 75
+  358  history 75 >> classwork-Thursday-1-26.txt 
