@@ -1,0 +1,30 @@
+---
+title: "Classwork Tuesday March7"
+author: "Cooper Kass"
+date: "March 7, 2017"
+output: html_document
+---
+
+```{r}
+library(paleotree)
+library(paleobioDB)
+
+data(graptPBDB)
+ls()
+
+occSpecies <- taxonSortPBDBocc(graptOccPBDB, "species")
+
+head(occSpecies)
+
+#plot species occurrences
+plotOccData(occSpecies, groupLabel = "Species")
+```
+
+```{r}
+#convert occurrence data to "timelist" format
+graptTimeSpecies <- occData2timeList(occList = occSpecies)
+head(graptTimeSpecies)
+#plot diversity through time
+taxicDivDisc(graptTimeSpecies)
+```
+
